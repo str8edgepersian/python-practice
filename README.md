@@ -9,6 +9,7 @@ No setup needed. Each badge opens the file in a free online Python editor and ru
 | File | |
 | --- | --- |
 | [`test.py`](./test.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=str8edgepersian/python-practice/main/test.py) |
+| [`test2.py`](./test2.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=str8edgepersian/python-practice/main/test2.py) |
 
 Made with [pythoncompiler.io](https://pythoncompiler.io/?utm_source=github&utm_medium=practice-repo) - the free online Python compiler.
 <!-- /pythoncompiler:files -->
